@@ -1,2 +1,2 @@
 # Drink-Water-Reminder
-a Drink Water Notification Reminder in Python
+A Drink Water Notification Reminder in Python
